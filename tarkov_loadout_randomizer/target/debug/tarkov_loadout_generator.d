@@ -1,0 +1,1 @@
+C:\Users\etien\OneDrive\Área\ de\ Trabalho\Rust\tarkov_loadout_generator\target\debug\tarkov_loadout_generator.exe: C:\Users\etien\OneDrive\Área\ de\ Trabalho\Rust\tarkov_loadout_generator\src\main.rs C:\Users\etien\OneDrive\Área\ de\ Trabalho\Rust\tarkov_loadout_generator\src\mission_maker.rs
