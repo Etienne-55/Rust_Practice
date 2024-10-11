@@ -55,15 +55,36 @@ fn main() {
 
 
     let n_one: f64 = 1.0;
-    //let n_two = 2;
-    //let n_three = 3;
-    //let n_four = 4;
-    //let n_five = 5;
+    let n_two: f64 = 2.0;
+    let n_three: f64 = 3.0;
+    let n_four: f64 = 4.0;
+    let n_five: f64 = 5.0;
 
 
     let result1 = evaluate_polynomial(&polynomial.trim(), n_one);
     let const1_n1 = const1 * n_one;
-    let const2_n2 = const2 * n_one;
+    let const2_n1 = const2 * n_one;
+
+    let result2 = evaluate_polynomial(&polynomial.trim(), n_two);
+    let const1_n2 = const1 * n_two;
+    let const2_n2 = const2 * n_two;
+
+    let result3 = evaluate_polynomial(&polynomial.trim(), n_three);
+    let const1_n3 = const1 * n_three;
+    let const2_n3 = const2 * n_three;
+
+    let result4 = evaluate_polynomial(&polynomial.trim(), n_four);
+    let const1_n4 = const1 * n_four;
+    let const2_n4 = const2 * n_four;
+
+    let result5 = evaluate_polynomial(&polynomial.trim(), n_five);
+    let const1_n5 = const1 * n_five;
+    let const2_n5 = const2 * n_five;
+
     println!("{}", polynomial);
-    println!("c1: {} --- f(n): {} --- c2: {}", const1_n1, result1, const2_n2);
+    println!("1 --- c1: {} --- f(n): {} --- c2: {}", const1_n1, result1, const2_n1);
+    println!("2 --- c1: {} --- f(n): {} --- c2: {}", const1_n2, result2, const2_n2);
+    println!("3 --- c1: {} --- f(n): {} --- c2: {}", const1_n3, result3, const2_n3);
+    println!("4 --- c1: {} --- f(n): {} --- c2: {}", const1_n4, result4, const2_n4);
+    println!("5 --- c1: {} --- f(n): {} --- c2: {}", const1_n5, result5, const2_n5);
 }
