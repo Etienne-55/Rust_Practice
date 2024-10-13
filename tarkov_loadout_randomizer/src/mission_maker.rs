@@ -20,7 +20,7 @@ pub fn exfil_randomizer() -> String {
     exfil_map.choose(&mut rng).unwrap().to_string()
 }
 
-pub fn main_randomizer() {
+pub fn main_map_randomizer() {
 
     let spawn = spawn_randomizer();
     let objective = mission_randomizer();
