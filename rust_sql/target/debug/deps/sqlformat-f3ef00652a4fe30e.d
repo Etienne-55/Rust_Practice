@@ -1,0 +1,10 @@
+C:\Users\etien\OneDrive\Área de Trabalho\Rust\rust_sql\target\debug\deps\libsqlformat-f3ef00652a4fe30e.rmeta: C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src/lib.rs C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\formatter.rs C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\indentation.rs C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\inline_block.rs C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\params.rs C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\tokenizer.rs
+
+C:\Users\etien\OneDrive\Área de Trabalho\Rust\rust_sql\target\debug\deps\sqlformat-f3ef00652a4fe30e.d: C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src/lib.rs C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\formatter.rs C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\indentation.rs C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\inline_block.rs C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\params.rs C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\tokenizer.rs
+
+C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src/lib.rs:
+C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\formatter.rs:
+C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\indentation.rs:
+C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\inline_block.rs:
+C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\params.rs:
+C:\Users\etien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.6\src\tokenizer.rs:
