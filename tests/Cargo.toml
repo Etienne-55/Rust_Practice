@@ -4,3 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+<<<<<<< HEAD
+=======
+rand = "0.8"
+>>>>>>> d20ce0886c26836916fddcb024c42d01d2a2a1e9
