@@ -1,0 +1,10 @@
+/home/etienne/rust_practice/rust_project/target/debug/deps/libfutures_channel-cddd6358da8a21ef.rmeta: /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/lib.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/lock.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/mpsc/mod.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/mpsc/queue.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/mpsc/sink_impl.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/oneshot.rs
+
+/home/etienne/rust_practice/rust_project/target/debug/deps/futures_channel-cddd6358da8a21ef.d: /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/lib.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/lock.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/mpsc/mod.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/mpsc/queue.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/mpsc/sink_impl.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/oneshot.rs
+
+/home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/lib.rs:
+/home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/lock.rs:
+/home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/mpsc/mod.rs:
+/home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/mpsc/queue.rs:
+/home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/mpsc/sink_impl.rs:
+/home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/futures-channel-0.3.31/src/oneshot.rs:

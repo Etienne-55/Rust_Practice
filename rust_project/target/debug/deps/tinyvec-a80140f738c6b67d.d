@@ -1,0 +1,11 @@
+/home/etienne/rust_practice/rust_project/target/debug/deps/libtinyvec-a80140f738c6b67d.rmeta: /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/lib.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/array.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/array/generated_impl.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/arrayvec.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/arrayvec_drain.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/slicevec.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/tinyvec.rs
+
+/home/etienne/rust_practice/rust_project/target/debug/deps/tinyvec-a80140f738c6b67d.d: /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/lib.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/array.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/array/generated_impl.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/arrayvec.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/arrayvec_drain.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/slicevec.rs /home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/tinyvec.rs
+
+/home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/lib.rs:
+/home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/array.rs:
+/home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/array/generated_impl.rs:
+/home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/arrayvec.rs:
+/home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/arrayvec_drain.rs:
+/home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/slicevec.rs:
+/home/etienne/.cargo/registry/src/index.crates.io-1cd66030c949c28d/tinyvec-1.8.0/src/tinyvec.rs:
