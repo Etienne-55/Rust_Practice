@@ -17,27 +17,6 @@ use std::io;
 
 //}
 
-
-pub fn get_user_info () {
-    let mut name = String::new();
-    let mut age_user = String::new();
-
-    println!("Enter user name: ");
-    io::stdin().read_line(&mut name).expect("Failed to read line");
-    let name = name.trim().to_string();
-
-    println!("Enter user age: ");
-    io::stdin().read_line(&mut age_user).expect("Failed to read line");
-    let age_user = age_user.trim().to_string();
-    
-
-    UserInfo { name, age}
-
-}
-
-
-
-
 pub fn add_name(name_list: &mut Vec<String>) {
 
     println!("Enter a name to add: ");
