@@ -72,3 +72,34 @@ pub fn remove_name(name_list: &mut Vec<String>) {
         println!("Index out of bounds");
     }
 }
+
+pub fn add_id_num(id_list: &mut Vec<i32>) {
+
+    println!("Enter your id number: ");
+    io::stdout();
+    
+    let mut id = String::new();
+    io::stdin().read_line(&mut id).expect("Failed to read line");
+    let id: i32 = id.trim().parse().expect("Please enter a valid id.");
+    id_list.push(id);
+
+    println!("Id added!");
+
+}
+
+
+pub fn show_id(id_list: &mut Vec<i32>) {
+
+    for show in id_list {
+        print!("{}", show);
+    }
+}
+
+pub fn show_even_id(id_list: &mut Vec<i32>) {
+    
+    for even in id_list {
+        if *even % 2 == 0 {
+            println!("{}", even);
+        }
+    }
+}

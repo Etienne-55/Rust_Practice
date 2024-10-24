@@ -10,10 +10,10 @@ fn main(){
     loop {
         println!("Sorting library. ");            
         println!("1: Add a name to the list. ");            
-        println!("2: Show name list. ");            
-        println!("3: Remove number from linked list. ");            
+        println!("2: Show the list. ");            
+        println!("3: Remove a name. ");            
         println!("4: Sorting options. ");            
-        println!("5: Exit. ");            
+        println!("5: Exit. ");             
 
         let mut choice = String::new();
         io::stdin().read_line(&mut choice).expect("Failed to read line");
@@ -35,6 +35,7 @@ fn main(){
         "5" => {
             println!("Quitting...");
             break;
+
         },
         _=> println!("Invalid choice")
        
