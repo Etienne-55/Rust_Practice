@@ -2,7 +2,9 @@ use std::io;
 
 use crate::sorting_library::add_id_num;
 use crate::sorting_library::show_even_id;
+use crate::sorting_library::show_odd_id;
 use crate::sorting_library::show_id;
+use crate::sorting_library::bubble_sort;
 
 
 pub fn sorting_options() {
@@ -30,7 +32,13 @@ pub fn sorting_options() {
         "2" => { show_id(&mut id_list);
         }
 
+        "3" => { bubble_sort(&mut id_list);
+        }
+
         "4" => { show_even_id(&mut id_list);
+        }
+
+        "5" => { show_odd_id(&mut id_list);
         }
 
         "6" => {

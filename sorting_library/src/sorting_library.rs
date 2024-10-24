@@ -2,20 +2,20 @@ use std::io;
 
 
 
-//pub fn bubble_sort(arr: &mut[type of variable]) {
-//    let mut n = arr.len();
-//    while n > 0 {
-//        let  mut last_modified_index = 0;
-//        for i in 1..n {
-//            if arr[i - 1] > arr[i] {
-//                arr.swap(i - 1, i);
-//                last_modified_index = i;
-//            }
-//        }
-//        n = last_modified_index;
-///    }
+pub fn bubble_sort(id_list: &mut Vec<i32>) {
+    let mut n = id_list.len();
+    while n > 0 {
+        let  mut last_modified_index = 0;
+        for i in 1..n {
+            if id_list[i - 1] > id_list[i] {
+                id_list.swap(i - 1, i);
+                last_modified_index = i;
+            }
+        }
+        n = last_modified_index;
+    }
 
-//}
+}
 
 pub fn add_name(name_list: &mut Vec<String>) {
 
@@ -87,11 +87,16 @@ pub fn add_id_num(id_list: &mut Vec<i32>) {
 
 }
 
-
 pub fn show_id(id_list: &mut Vec<i32>) {
+    
+    if id_list.is_empty() {
+        println!("The list is empty");
 
-    for show in id_list {
-        print!("{}", show);
+
+    } else {
+        for (index, id) in id_list.iter().enumerate() {
+            println!("{}: {}", index, id);
+        }
     }
 }
 
@@ -100,6 +105,15 @@ pub fn show_even_id(id_list: &mut Vec<i32>) {
     for even in id_list {
         if *even % 2 == 0 {
             println!("{}", even);
+        }
+    }
+}
+
+pub fn show_odd_id(id_list: &mut Vec<i32>) {
+    
+    for odd in id_list {
+        if *odd % 2 == 1 {
+            println!("{}", odd);
         }
     }
 }
